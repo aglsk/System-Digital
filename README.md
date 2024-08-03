@@ -96,3 +96,8 @@ Este projeto está licenciado sob a [GPL-3.0 license](LICENSE).
 ---
 
 **System Digital** é um projeto de código aberto desenvolvido para gerenciamento de mídia digital. Para mais informações, consulte a documentação e o código-fonte disponível neste repositório.
+
+``` senha
+User: admin
+Pass: admin
+```
