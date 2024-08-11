@@ -55,6 +55,16 @@
 
    Substitua `<hash_da_senha>` com o hash da senha gerado usando `password_hash()`.
 
+**Comando PHP Para Cria Senha Hash
+
+```php
+<?php
+$password = 'sua_senha';
+$hash = password_hash($password, PASSWORD_DEFAULT);
+echo $hash;
+?>
+```
+
 ## Estrutura do Projeto
 
 - **`index.php`**: Página principal que lista todos os arquivos.
