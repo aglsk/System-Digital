@@ -60,6 +60,6 @@ Agora, caso o usuário acesse uma página inexistente, ele verá uma página de 
 
 Apoie o projeto e fique por dentro de futuras atualizações:
 
-[![Baixar versão 2.0](https://img.shields.io/badge/Download-v2.0-brightgreen)](https://github.com/aglsk/System-Digital/releases/tag/2.0)  
+[![Baixar versão 2.0](https://img.shields.io/badge/Download-v2.0-brightgreen)](https://github.com/aglsk/System-Digital/releases/download/2.0/2.0.zip)  
 [![Seguir no GitHub](https://img.shields.io/github/followers/aglsk?label=Seguir%20no%20GitHub&style=social)](https://github.com/aglsk)  
 [![Curtir o projeto](https://img.shields.io/badge/Curtir-👍-blue)](https://github.com/aglsk/System-Digital)
